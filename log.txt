@@ -1,0 +1,29 @@
+commit 84ea75ea671d1205e3b11c6d6b29ae50f00f04e4
+Author: atishchandra <atishchandra2000@gmail.com>
+Date:   Thu Jan 6 11:29:39 2022 +0530
+
+    Added .png files to gitignore
+
+commit ffb4ec25c9ead23bb12425b02e826e375171a43f
+Author: atishchandra <atishchandra2000@gmail.com>
+Date:   Thu Jan 6 11:22:26 2022 +0530
+
+    added gitignore
+
+commit 0e3450a89c7bafac3516a55c9a752bc3eba87422
+Author: atishchandra <atishchandra2000@gmail.com>
+Date:   Thu Jan 6 11:04:00 2022 +0530
+
+    Added htm2
+
+commit e7b70d491477cd4d6925c8412862d86a72328b77
+Author: atishchandra <atishchandra2000@gmail.com>
+Date:   Thu Jan 6 11:02:54 2022 +0530
+
+    Added html1
+
+commit d68a10d9e05e03a267ca6c4cb7906b2d3aabd879
+Author: atishchandra <atishchandra2000@gmail.com>
+Date:   Thu Jan 6 11:00:49 2022 +0530
+
+    Updated Readme
