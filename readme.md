@@ -1,27 +1,23 @@
-# This is a large heading
+# Atish Chandra
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I lives in Bangalore, India
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are:
+- On the Open Road
+- Start with Why
+- Everyone has a story
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Three of my Favourite foods are:
+- Chicken Biryani
+- Pizza
+- Burger
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
+The best way to get in touch with me is [ on Instagram ] (https://instagram.com/theatishmishra).
